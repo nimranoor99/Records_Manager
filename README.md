@@ -5,4 +5,4 @@ Author: Nimra Noor
 <br>
 Date: 07-Nov-2024
 <br>
-Purpose: Manegment of All Repos
+Purpose: Manegment of All Scope
