@@ -1,2 +1,4 @@
 # All-Records
-This is record directory where i mange all my public folders/projects.
+This is the record directory where I manage all my public folders/projects.
+<be>
+Author: Nimra Noor
