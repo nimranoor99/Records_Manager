@@ -1,4 +1,4 @@
-# All Records - Repository Management Tool
+# Records Manager - Repository Management Tool
 <br>
 
 **Author:** 
