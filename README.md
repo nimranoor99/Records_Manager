@@ -37,5 +37,6 @@ This repository serves as a central location for managing records of other proje
 | Sr. No. |Repos Name  | Status|  File Types  | Technologies |Version | Work Date | Update date | 
 | ----------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 |  01 | Campus Network Design & Implementation Project | `Ready`  |  PKT| Networking | v1.1 | Jun-2021 |Oct-2024 |
-|  02 | Health App Device Devoplment   | `Under Process` |  INO & JS | ML+ App Deveoplment + Electronics | v1.1 | Jan-2022 | Oct-2024 |
+|  02 | Health App Device Devoplment   | `Ready` |  INO & JS | ML+ App Deveoplment + Electronics | v1.1 | Jan-2022 | Oct-2024 |
 |  03 | Worldwide Retrenchment Dat Cleaning And EDA   | `Under Process` | SQL | Data Analysis| v1.1 | Oct-2024 | Oct-2024 |
+|  04 | 04_STAFF_FEEDBACK_ENGAGEMENT_INSIGHTS_VIA_POWERBI   | `Ready` | PowerBI | Data Analysis| v1.1 | Jan-2025 | Jan-2025 |
